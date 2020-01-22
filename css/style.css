@@ -1,19 +1,17 @@
 .container {
-	background: black;
-	color: white;
+	background: rgb(221, 14, 100);
+	color: rgb(182, 162, 165);
 	margin-top: 10px;
 }
 #textArea {
 	margin-top: 3px;
 	color: black;
-	width: 820px;
-	height: 30px;
 }
 #x{
 	float: right;
 }
 button{
 	font-size: 25px;
-	color: chocolate;
+	color: rgb(210, 30, 30);
 	margin-top: 2px;
 }
